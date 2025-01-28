@@ -13,6 +13,7 @@ export default {
       },
       fontFamily: {
         text: ["Tangerine", "cursive"],
+        varelaRound: ["var(--font-varela-round)", "sans-serif"],
       },
     },
   },
